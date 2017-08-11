@@ -16,7 +16,7 @@
 - 新增README.md文件，并提交时写明注释`init project`
 - 将本地库推送到远程目录，
 - 创建dev分支，并切换到该分支
-- 新增文件hello.html，内容如下(`Name修改为自己的名字`)并提交。 提交注释：`add hello.html`
+- 新增文件hello.html，内容如下并提交。 提交注释：`add hello.html`
 ```html
 <html>
     <body>
@@ -51,3 +51,6 @@
 - 修改hello.html中的`Hello Name`为`Hey Name`,解决冲突并提交：`fix conflic`
 - Push上述操作
 - 合并dev Branch代码到master
+
+## 结果评定
+- `Master`根据`Itern`操作过程及Git Change Log评定是否达到要求。
