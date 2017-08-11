@@ -36,14 +36,15 @@
     </body>
 </html>
 ```
-- 更新指引人的操作到本地
-- 指引人如下修改文件hello.html,提交并push,提交注释：`career guider: add name after Well Done`
+
+- 更新`Master`的操作到本地。`完成后通知Master执行下一步操作`
+- `Master`如下修改文件hello.html,提交并push,提交注释：`career guider: add name after Well Done`
 
 ```html
 <html>
     <body>
         <h1>Hello Name</h1>
-        <p>Well Done {name}!</p>
+        <p>Well Done {name}!</p> <!--在这里增加Itern的名字-->
     </body>
 </html>
 ```
