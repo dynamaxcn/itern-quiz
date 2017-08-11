@@ -48,8 +48,8 @@
     </body>
 </html>
 ```
-- 修改hello.html中的`Hello Name`为`Hey Name`,解决冲突并提交：`fix conflic`
-- Push上述操作
+- 修改hello.html中的`Hello Name`为`Hey Name`并提交,提交注释：`update Hello to Hey`
+- 解决冲突并Push上述操作
 - 合并dev Branch代码到master
 
 ## 结果评定
