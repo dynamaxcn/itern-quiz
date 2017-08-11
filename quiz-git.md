@@ -3,11 +3,19 @@
 > - Date: 2017-08-8/10 0010
 
 ----
+## 准备条件
+> - 环境：任意版本Git，IDE或CMD工具
+> - 角色：Master-入职指引人，Itern-实习学员
+> - 远程库：Master创建git远程项目`quiz-git-{name}`，并添加该实习用户读写权限。
+----
+
+## 测试内容
+> 以下部分如无特殊说明均为`Itern`操作
 
 - 在本地创建项目`quiz-git-{name}`
 - 将本地库提交到远程目录，提交时写明注释`init project`
 - 创建dev分支，并切换到该分支
-- 新增文件hello.html，内容如下并提交。 提交注释：`add hello.html`
+- 新增文件hello.html，内容如下(`Name修改为自己的名字`)并提交。 提交注释：`add hello.html`
 ```html
 <html>
     <body>
@@ -16,8 +24,8 @@
 </html>
 ```
 - 修改文件hello.html中的`Name`为自己的中文名。 提交注释：`update hello.html ,modify hell name`
-- Push以上操作到远程Git库
-- 指引人在hello.html中增加如下内容并提交，提交并push,提交注释：`career guider: add well done section `
+- Push以上操作到远程Git库。
+- `Master`在hello.html中增加如下内容并提交，提交并push,提交注释：`career guider: add well done section `
 
 ```html
 <html>
