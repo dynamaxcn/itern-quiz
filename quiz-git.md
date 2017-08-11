@@ -24,7 +24,7 @@
     </body>
 </html>
 ```
-- 修改文件hello.html中的`Name`为自己的中文名。 提交注释：`update hello.html ,modify hell name`
+- 修改文件hello.html中的`Name`为自己的中文名。 提交注释：`update hello.html ,modify hello name`
 - Push以上操作到远程Git库。`完成后通知Master执行下一步操作`
 - `Master`在hello.html中增加如下内容并提交，提交并push,提交注释：`master: add well done section `
 
