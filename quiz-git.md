@@ -4,7 +4,7 @@
 
 ----
 
-- 在本地创建项目`git-{name}`
+- 在本地创建项目`quiz-git-{name}`
 - 将本地库提交到远程目录，提交时写明注释`init project`
 - 创建dev分支，并切换到该分支
 - 新增文件hello.html，内容如下并提交。 提交注释：`add hello.html`
